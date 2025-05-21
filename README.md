@@ -33,9 +33,4 @@ The scraper extracts the following information about smartphones:
 4. BeautifulSoup extracts the desired smartphone details.
 5. The data is cleaned and exported to a CSV or JSON file.
 
-## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/smartphone-data-scraper.git
-   cd smartphone-data-scraper
